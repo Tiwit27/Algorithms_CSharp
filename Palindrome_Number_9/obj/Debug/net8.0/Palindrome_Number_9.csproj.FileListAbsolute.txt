@@ -1,0 +1,14 @@
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\bin\Debug\net8.0\Palindrome_Number_9.exe
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\bin\Debug\net8.0\Palindrome_Number_9.deps.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\bin\Debug\net8.0\Palindrome_Number_9.runtimeconfig.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\bin\Debug\net8.0\Palindrome_Number_9.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\bin\Debug\net8.0\Palindrome_Number_9.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\Palindrome_Number_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\Palindrome_Number_9.AssemblyInfoInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\Palindrome_Number_9.AssemblyInfo.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\Palindrome_Number_9.csproj.CoreCompileInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\Palindrome_Number_9.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\refint\Palindrome_Number_9.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\Palindrome_Number_9.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\Palindrome_Number_9.genruntimeconfig.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Palindrome_Number_9\obj\Debug\net8.0\ref\Palindrome_Number_9.dll

@@ -1,0 +1,14 @@
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\bin\Debug\net8.0\Find_Closest_Number_To_Zero_2239.exe
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\bin\Debug\net8.0\Find_Closest_Number_To_Zero_2239.deps.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\bin\Debug\net8.0\Find_Closest_Number_To_Zero_2239.runtimeconfig.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\bin\Debug\net8.0\Find_Closest_Number_To_Zero_2239.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\bin\Debug\net8.0\Find_Closest_Number_To_Zero_2239.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\Find_Closest_Number_To_Zero_2239.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\Find_Closest_Number_To_Zero_2239.AssemblyInfoInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\Find_Closest_Number_To_Zero_2239.AssemblyInfo.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\Find_Closest_Number_To_Zero_2239.csproj.CoreCompileInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\Find_Closest_Number_To_Zero_2239.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\refint\Find_Closest_Number_To_Zero_2239.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\Find_Closest_Number_To_Zero_2239.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\Find_Closest_Number_To_Zero_2239.genruntimeconfig.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Find_Closest_Number_To_Zero_2239\obj\Debug\net8.0\ref\Find_Closest_Number_To_Zero_2239.dll

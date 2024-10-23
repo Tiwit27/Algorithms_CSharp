@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Two_Sum_1/1.0.0": {
+        "runtime": {
+          "Two_Sum_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Two_Sum_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

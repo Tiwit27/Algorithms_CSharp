@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\ZadaniaAlgorytmy\\Palindrome_Number_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E99D6AE5-012A-453A-85A0-86D271DEF1CE}|Palindrome_Number_9.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\zadaniaalgorytmy\\palindrome_number_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99D6AE5-012A-453A-85A0-86D271DEF1CE}|Palindrome_Number_9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\ZadaniaAlgorytmy\\Palindrome_Number_9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\ZadaniaAlgorytmy\\Palindrome_Number_9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:25:47.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

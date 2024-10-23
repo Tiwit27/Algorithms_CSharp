@@ -1,0 +1,14 @@
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\bin\Debug\net8.0\Two_Sum_1.exe
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\bin\Debug\net8.0\Two_Sum_1.deps.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\bin\Debug\net8.0\Two_Sum_1.runtimeconfig.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\bin\Debug\net8.0\Two_Sum_1.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\bin\Debug\net8.0\Two_Sum_1.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\Two_Sum_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\Two_Sum_1.AssemblyInfoInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\Two_Sum_1.AssemblyInfo.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\Two_Sum_1.csproj.CoreCompileInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\Two_Sum_1.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\refint\Two_Sum_1.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\Two_Sum_1.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\Two_Sum_1.genruntimeconfig.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\ZadaniaAlgorytmy\Two_Sum_1\obj\Debug\net8.0\ref\Two_Sum_1.dll

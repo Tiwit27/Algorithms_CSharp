@@ -40,25 +40,6 @@
             {
                 return false;
             }
-            /*
-            
-            if(s.Length % 2 != 0)
-            {
-                return false;
-            }
-            else
-            {
-                char[] sChar = s.ToCharArray();
-                for(int i = 0; i < sChar.Length / 2; i++)
-                {
-                    char lastChar = characters.Where(x => x.Value == sChar[sChar.Length - i - 1]).Select(x => x.Key).First();
-                    if (sChar[i] != lastChar)
-                    {
-                        return false;
-                    }
-                }
-                return true;
-            }*/
         }
     }
 }
